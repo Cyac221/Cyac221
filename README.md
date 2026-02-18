@@ -5,4 +5,4 @@
  
 
 ### Reach me through
-![LinkedIn](www.linkedin.com/in/carlos-yepes-074095199)
+(www.linkedin.com/in/carlos-yepes-074095199)
