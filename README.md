@@ -1,4 +1,4 @@
-# Carlos José Yepes Aristizábal  🇨🇴
+# Carlos José Yepes Aristizábal 🇨🇴  
 
 ## 🇪🇸 Español
 
@@ -19,11 +19,17 @@ Diseño pipelines, métricas dinámicas y modelos de adopción que convierten da
 
 ### 🛠 Stack técnico
 
+**Principal**
 - Python (Pandas, PySpark)  
 - SQL (Athena / Presto)  
 - AWS (S3, Glue, Athena)  
 - Integración con APIs  
 - Visualización de datos (Tableau, Power BI)  
+
+**Secundario**
+- JavaScript
+- HTML
+- Java 
 
 ---
 
@@ -55,11 +61,17 @@ I design data pipelines, dynamic metrics, and adoption models that transform raw
 
 ### 🛠 Tech Stack
 
+**Primary**
 - Python (Pandas, PySpark)  
 - SQL (Athena / Presto)  
 - AWS (S3, Glue, Athena)  
 - API integrations  
 - Data visualization (Tableau, Power BI)  
+
+**Secondary**
+- JavaScript
+- HTML
+- Java
 
 ---
 
