@@ -20,7 +20,7 @@ Diseño pipelines, métricas dinámicas y modelos de adopción que convierten da
 ### 🛠 Stack técnico
 
 **Principal**
-- Python (Pandas, PySpark)  
+- Python (Pandas, NumPy, Polars)  
 - SQL (Athena / Presto)  
 - AWS (S3, Glue, Athena)  
 - Integración con APIs  
