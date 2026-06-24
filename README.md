@@ -1,81 +1,48 @@
-# Carlos José Yepes Aristizábal 🇨🇴  
+# Carlos Yepes Aristizábal 🇨🇴
 
-## 🇪🇸 Español
+Data Analyst transitioning into Data Engineering | Python · SQL · AWS
 
-Analista de datos enfocado en marketing, comportamiento del usuario y sistemas de movilidad digital.
+I build data pipelines, automate extraction and transformation workflows, and turn raw data into
+actionable insights. My background is in marketing analytics and user behavior — I understand
+both the technical side (pipelines, queries, cloud infrastructure) and the business side
+(segmentation, activation, lifecycle models).
 
-Diseño pipelines, métricas dinámicas y modelos de adopción que convierten datos en decisiones estratégicas accionables. Me interesa entender cuándo un usuario adopta un producto, por qué lo abandona y cómo intervenir con evidencia.
-
----
-
-### 🔍 En qué trabajo
-
-- Análisis de comportamiento transaccional  
-- Segmentación y activación de usuarios  
-- Automatización de procesos de extracción y transformación de datos  
-- Construcción de dashboards estratégicos para toma de decisiones  
+Currently deepening my skills in data engineering: pipeline orchestration, cloud-native
+architectures, and modern data stack tools (dbt, Airflow).
 
 ---
 
-### 🛠 Stack técnico
+## 🛠 Tech Stack
 
-**Principal**
-- Python (Pandas, NumPy, Polars)  
-- SQL (Athena / Presto)  
-- AWS (S3, Glue, Athena)  
-- Integración con APIs  
-- Visualización de datos (Tableau, Power BI)  
+**Data Engineering & Analytics**
+- Python (Pandas, NumPy, boto3, requests, psycopg2, smtplib)
+- SQL (Athena / Presto) — window functions, CTEs, partitioned queries
+- AWS (S3, Glue, Athena)
+- ETL pipeline design and automation
+- REST API integration
 
-**Secundario**
-- JavaScript
-- HTML
-- Java 
+**Analytics & Visualization**
+- Google Analytics 4 · Google Tag Manager
+- Looker Studio · Power BI
+- User segmentation and behavioral analysis
 
----
-
-### 📊 Intereses actuales
-
-- Modelos de adopción y lifecycle  
-- Optimización de journeys digitales  
-- Automatización de métricas de negocio  
-- Ciencia de datos aplicada a marketing  
+**Web & Software Development**
+- JavaScript · HTML · CSS · React · Next.js
+- Git · GitHub
 
 ---
 
-## 🇬🇧 English
+## 📌 What I'm Working On
 
-Data Analyst focused on marketing analytics, user behavior, and digital mobility systems.
-
-I design data pipelines, dynamic metrics, and adoption models that transform raw data into strategic, actionable decisions. I am particularly interested in understanding when users adopt a product, why they churn, and how to intervene using data-driven insights.
-
----
-
-### 🔍 What I Work On
-
-- Transactional behavior analysis  
-- User segmentation and activation  
-- Automated data extraction and transformation pipelines  
-- Strategic dashboards for decision-making  
-
----
-
-### 🛠 Tech Stack
-
-**Primary**
-- Python (Pandas, PySpark)  
-- SQL (Athena / Presto)  
-- AWS (S3, Glue, Athena)  
-- API integrations  
-- Data visualization (Tableau, Power BI)  
-
-**Secondary**
-- JavaScript
-- HTML
-- Java
+- Building end-to-end data pipelines with Python and AWS
+- Learning dbt for data transformation and modeling
+- Strengthening pipeline orchestration skills (Airflow)
+- Improving English for technical communication and interviews
 
 ---
 
 ## 📫 Contact
 
-LinkedIn: https://www.linkedin.com/in/carlos-yepes-074095199/  
-Email: carlosyepes021@gmail.com  
+LinkedIn: https://www.linkedin.com/in/carlos-yepes-074095199/
+Email: carlosyepes021@gmail.com
+Portfolio: https://cyac221.github.io/portfolio-carlosyepes/
